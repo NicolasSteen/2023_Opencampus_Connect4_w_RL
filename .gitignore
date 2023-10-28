@@ -1,0 +1,12 @@
+my_model.zip
+
+test*
+
+*copy.py
+
+__pycache__/
+.DS_Store
+ressources/
+models
+
+*ipynb
